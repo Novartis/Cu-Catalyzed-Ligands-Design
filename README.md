@@ -1,4 +1,4 @@
-# Ligands_Design
+## Ligands_Design
 
 To further improve the efficiency of the hydroxylation reaction, it is essential to design and screen a large number of different ligand structures and explore the optimal reaction conditions. Traditional methods necessitate conducting numerous experiments, which are both time-consuming and resource-intensive. In our paper, we introduce machine learning methods to help us to increase our efficiency in ligands optimization and design.
 
@@ -114,10 +114,7 @@ example code shared as below for generating properties using xtb
 With the optimized ligands sdf file, you could further using Morfeus package https://digital-chemistry-laboratory.github.io/morfeus/notes.html, for further steric descriptors generation.
 
 
-## Anaylsis & Prediction
+# Anaylsis & Prediction
 
 Go for **Ligands_Analysis_Prediction.ipynb** file for detailed models on training and prediction. The databased training_set.csv and Unsynthesized_ligands_descriptors.csv used in the jupyternotebook could be found under data folder.
-=======
-# Cu-Catalyzed-Ligands-Design
 By establishing machine learning (ML) models, the design of ligands and optimization of reaction conditions were effectively facilitated
->>>>>>> origin/main
