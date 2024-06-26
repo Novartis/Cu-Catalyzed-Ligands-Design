@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ligands_Design
 
 To further improve the efficiency of the hydroxylation reaction, it is essential to design and screen a large number of different ligand structures and explore the optimal reaction conditions. Traditional methods necessitate conducting numerous experiments, which are both time-consuming and resource-intensive. In our paper, we introduce machine learning methods to help us to increase our efficiency in ligands optimization and design.
